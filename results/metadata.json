@@ -1,0 +1,11 @@
+{
+  "data_source": "MS-FTBDA-20-01585 disclosed replication package",
+  "offline_rows": 3000,
+  "offline_unique_skus": 2607,
+  "treatment_pairs": 500,
+  "control_pairs": 500,
+  "candidate_controls": 55333,
+  "holding_cost_parameter": 1.0,
+  "stockout_cost_parameter": 9.0,
+  "gpu_used": false
+}
